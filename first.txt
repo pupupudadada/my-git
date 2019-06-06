@@ -1,3 +1,2 @@
 git is a  dis version control sysytem
-git is free software
-git has a mulable index called stage.
+git is free software under the the GPL.
